@@ -1,0 +1,17 @@
+{
+  "name": "poki-sdk-types",
+  "version": "1.0.0",
+  "description": "TypeScript support for Poki SDK",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/endel/poki-sdk-types.git"
+  },
+  "keywords": [ "poki" ],
+  "author": "Endel Dreyer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/endel/poki-sdk-types/issues"
+  },
+  "homepage": "https://github.com/endel/poki-sdk-types#readme"
+}
